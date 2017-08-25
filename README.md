@@ -1,6 +1,6 @@
 # mastermind
 
-This program would generate 4 letter string code from the alphabet 'ABCDEF'.
+#This program would generate 4 letter string code from the alphabet 'ABCDEF'.
 For example, ACFE or DACB or BBCD
 INPUT: Prompt the user to input user's guess.
 OUTPUT: In each guess the program would print:
